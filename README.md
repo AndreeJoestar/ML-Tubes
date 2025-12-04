@@ -14,7 +14,7 @@ Berikut penjelasan setiap file pada repositori:
 | **harga_beras_surabaya_2024.csv** | Dataset harga beras harian yang digunakan untuk training dan testing. |
 | **rf_beras_surabaya_2024.joblib** | Model Random Forest yang sudah dilatih dan disimpan untuk digunakan kembali. |
 | **LAPORAN PROYEK.docx** | Laporan akhir proyek machine learning. |
-| **LK PERANCANGAN PROYEK.docx** | Dokumen perancangan awal proyek. |
+| **LK PERANCANGAN PROject.docx** | Dokumen perancangan awal proyek. |
 | **README.md** | Dokumentasi proyek. |
 
 ---
